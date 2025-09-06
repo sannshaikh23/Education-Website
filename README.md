@@ -1,14 +1,14 @@
-Education Website  
+## Education Website  
 An educational website built with **HTML, CSS, and JavaScript** that showcases courses, tutors, and general information about an institution. 
 This project is a static website.  
 
-Project Objectives  
+### Project Objectives  
 - Built a clean and structured **frontend website** for educational purposes.  
 - Showcase **courses, tutors, and contact details** in an easy-to-navigate format.  
 - Applied **HTML for structure, CSS for styling, and JavaScript for basic interactivity**.  
 - Practice responsive layouts and modern UI design principles.  
 
-Future Enhancements
+### Future Enhancements
   - Make the website fully responsive for mobile & tablet devices.
   - Add more interactivity (animations, hover effects, course filters).
   - Improve UI using frameworks like Bootstrap CSS.
