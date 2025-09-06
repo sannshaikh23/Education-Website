@@ -3,9 +3,9 @@ An educational website built with **HTML, CSS, and JavaScript** that showcases c
 This project is a static website.  
 
 Project Objectives  
-- Build a clean and structured **frontend website** for educational purposes.  
+- Built a clean and structured **frontend website** for educational purposes.  
 - Showcase **courses, tutors, and contact details** in an easy-to-navigate format.  
-- Apply **HTML for structure, CSS for styling, and JavaScript for basic interactivity**.  
+- Applied **HTML for structure, CSS for styling, and JavaScript for basic interactivity**.  
 - Practice responsive layouts and modern UI design principles.  
 
 Future Enhancements
